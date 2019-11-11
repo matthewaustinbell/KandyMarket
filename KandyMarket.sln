@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KandyMarket.Service", "KandyMarket\KandyMarket.Service.csproj", "{FA3674BE-30C9-410B-8088-0C7015C7733D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KandyMarket.Data", "KandyMarket.Data\KandyMarket.Data.csproj", "{3B522C1E-CE15-4290-96B9-84529B4FD7A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA3674BE-30C9-410B-8088-0C7015C7733D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3674BE-30C9-410B-8088-0C7015C7733D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3674BE-30C9-410B-8088-0C7015C7733D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3674BE-30C9-410B-8088-0C7015C7733D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B522C1E-CE15-4290-96B9-84529B4FD7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B522C1E-CE15-4290-96B9-84529B4FD7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B522C1E-CE15-4290-96B9-84529B4FD7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B522C1E-CE15-4290-96B9-84529B4FD7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC119294-4B4E-455E-98A9-738B5C2E8B45}
+	EndGlobalSection
+EndGlobal
